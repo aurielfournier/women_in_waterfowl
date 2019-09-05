@@ -6,7 +6,7 @@ We have created this website to make a centralized place to access the resources
 
 This website is a work in progress. 
 
-<img align="right" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/talks.png">
+<img align="left" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/talks.png">
 
 
 
