@@ -16,7 +16,7 @@ Auriel Fournier - auriel@illinois.edu
 
 # Copies of Power Points
 
-# [Presentation: Oppurtunity Gap](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
+# [Presentation: Underemployment: A self-imposed oppurtunity gap. By Lindsay G. Carlson, Sally Yannuzzi and Cheyenne Beach ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
 
 > Davidson, P. and R. Black. 2001. Women in natural resource management: finding a more balanced perspective. Society and Natural Resources 14(8):645-656.
 
@@ -53,7 +53,7 @@ Auriel Fournier - auriel@illinois.edu
 > Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
 
 
-# [Presentation Effective Networking for Hunters and Non-hunters](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
+# [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
 
 > [Shipilov et al. 2007](https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26508183)  
 > [Forret & Dougherty 2004](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.253)  
