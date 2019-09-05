@@ -6,15 +6,17 @@ We have created this website to make a centralized place to access the resources
 
 This website is a work in progress. 
 
-<img align="left" src="https://raw.githubusercontent.com/aurielfournier/aurielfournier.github.io/master/images/talks.png">
-
-
 
 #### Questions?
 
 Auriel Fournier - auriel@illinois.edu
 
-# Copies of Power Points
+# Copies of Power Points and Resources Therein
+
+
+# Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions (coming soon!)
+
+# Presentation: Beginning a career in waterfowl ecology: challenges and strategies (coming soon!)
 
 # [Presentation: Underemployment: A self-imposed oppurtunity gap. By Lindsay G. Carlson, Sally Yannuzzi and Cheyenne Beach ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
 
@@ -52,6 +54,7 @@ Auriel Fournier - auriel@illinois.edu
 
 > Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
 
+# Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. (coming soon!)
 
 # [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
 
