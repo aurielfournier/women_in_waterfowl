@@ -6,19 +6,21 @@ We have created this website to make a centralized place to access the resources
 
 This website is a work in progress. 
 
-
 #### Questions?
-
 Auriel Fournier - auriel@illinois.edu
 
-# Copies of Power Points and Resources Therein
 
+## Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions (coming soon!)  
+  
+    
+    
 
-# Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions (coming soon!)
+## Presentation: Beginning a career in waterfowl ecology: challenges and strategies (coming soon!)  
+  
+    
+    
 
-# Presentation: Beginning a career in waterfowl ecology: challenges and strategies (coming soon!)
-
-# [Presentation: Underemployment: A self-imposed oppurtunity gap. By Lindsay G. Carlson, Sally Yannuzzi and Cheyenne Beach ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
+## [Presentation: Underemployment: A self-imposed oppurtunity gap. By Lindsay G. Carlson, Sally Yannuzzi and Cheyenne Beach ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
 
 > Davidson, P. and R. Black. 2001. Women in natural resource management: finding a more balanced perspective. Society and Natural Resources 14(8):645-656.
 
@@ -54,9 +56,12 @@ Auriel Fournier - auriel@illinois.edu
 
 > Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
 
-# Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. (coming soon!)
-
-# [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
+## Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. (coming soon!)
+  
+    
+      
+      
+## [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
 
 > [Shipilov et al. 2007](https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26508183)  
 > [Forret & Dougherty 2004](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.253)  
