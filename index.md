@@ -82,3 +82,9 @@ Auriel Fournier - auriel@illinois.edu
 > [Greguletz et al. 2019](https://journals.sagepub.com/doi/abs/10.1177/0018726718804303)
 
 
+
+
+## Other Resources
+
+> [hollaback! Bystander intervention training](https://www.ihollaback.org/resources/bystander-resources/)  
+> [How to be an Ally](https://dynamicecology.wordpress.com/2019/09/04/guest-post-how-to-be-an-ally/) 
