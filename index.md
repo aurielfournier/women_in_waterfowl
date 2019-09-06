@@ -26,13 +26,11 @@ Auriel Fournier - auriel@illinois.edu
 > [fairplaygave.org](fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
       
     
-    
 
 ## Presentation: Beginning a career in waterfowl ecology: challenges and strategies (coming soon!)  
   
     
     
-
 ## [Presentation: Underemployment: A self-imposed oppurtunity gap. By Lindsay G. Carlson, Sally Yannuzzi and Cheyenne Beach ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
 
 > Davidson, P. and R. Black. 2001. Women in natural resource management: finding a more balanced perspective. Society and Natural Resources 14(8):645-656.
@@ -69,8 +67,12 @@ Auriel Fournier - auriel@illinois.edu
 
 > Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
 
-## Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. (coming soon!)
+## [Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. By Susan Ellis-Felege and Kayla Kemink](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Mentoring%20in%20the%20Waterfowl%20Profession%20Ellis-Felege%20and%20Kemink.pdf)
 
+> [Amelink 2008](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjG0cX8hL3kAhVDDq0KHRhxD3wQFjAAegQIARAC&url=https%3A%2F%2Fwww.engr.psu.edu%2Fawe%2Fmisc%2FARPs%2FARP_Mentoring_overview120408.pdf&usg=AOvVaw1v9HTNyudYbT0luZg3qzOg)
+> [Storrs et al 2008](https://www.tandfonline.com/doi/abs/10.1080/13611260801916499)  
+> [Athena Rising, How and Why Men Should Mentor Women](https://www.amazon.com/Athena-Rising-Should-Mentor-Women/dp/1629561517)  
+> [Challenges and supports for women conservation leaders](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.36)
 
       
 ## [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
