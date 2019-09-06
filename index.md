@@ -6,8 +6,16 @@ We have created this website to make a centralized place to access the resources
 
 This website is a work in progress. 
 
-#### Questions?
+## Questions?
+#### About the Symposium
+Lisa Webb - webbli@missouri.edu  
+Kaylan Kemink - kkemink@ducks.org  
+Beth Ross - bross5@g.clemson.edu
+#### About the website/broken links/etc
 Auriel Fournier - auriel@illinois.edu
+
+
+[Live Tweets](https://twitter.com/RallidaeRule/status/1166808825795620864)
 
 
 ## [Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
