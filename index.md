@@ -19,7 +19,7 @@ Auriel Fournier - auriel@illinois.edu
 
 
 
-<img align="right" src="zgX_MAtg.jpeg">
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/zgX_MAtg.jpeg">
 
 ## [Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
 
@@ -37,7 +37,7 @@ Auriel Fournier - auriel@illinois.edu
 > [fairplaygave.org](fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
       
     
-<img align="right" src=https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/BEyb8YEg.jpeg">
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/BEyb8YEg.jpeg">
 
 ## [Presentation: Beginning a career in waterfowl ecology: challenges and strategies - By Casey Setash, Lindsay Carlson, Kaylan Kemink, Dana Varner](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Beginning_A_Career.pdf)
   
