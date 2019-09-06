@@ -18,6 +18,9 @@ Auriel Fournier - auriel@illinois.edu
 [Live Tweets](https://twitter.com/RallidaeRule/status/1166808825795620864)
 
 
+
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/zgX_MAtg.jpeg">
+
 ## [Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
 
 
@@ -34,6 +37,7 @@ Auriel Fournier - auriel@illinois.edu
 > [fairplaygave.org](fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
       
     
+<img align="right" src="https://github.com/aurielfournier/women_in_waterfowl/blob/master/photos/BEyb8YEg.jpeg">
 
 ## [Presentation: Beginning a career in waterfowl ecology: challenges and strategies - By Casey Setash, Lindsay Carlson, Kaylan Kemink, Dana Varner](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Beginning_A_Career.pdf)
   
@@ -88,6 +92,7 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 > Formal gender trainings - https://eige.europa.eu/gender-mainstreaming/methods-tools
 
 
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/Rr-xG-dQ.jpeg">
     
 ## [Presentation: Underemployment: A self-imposed oppurtunity gap. By Lindsay G. Carlson, Sally Yannuzzi and Cheyenne Beach ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Oppurtunity_Gap.pdf)
 
@@ -125,6 +130,9 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 
 > Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
 
+
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/X8UfHdfw.jpeg">
+
 ## [Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. By Susan Ellis-Felege and Kayla Kemink](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Mentoring%20in%20the%20Waterfowl%20Profession%20Ellis-Felege%20and%20Kemink.pdf)
 
 > [Amelink 2008](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjG0cX8hL3kAhVDDq0KHRhxD3wQFjAAegQIARAC&url=https%3A%2F%2Fwww.engr.psu.edu%2Fawe%2Fmisc%2FARPs%2FARP_Mentoring_overview120408.pdf&usg=AOvVaw1v9HTNyudYbT0luZg3qzOg)
@@ -132,6 +140,8 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 > [Athena Rising, How and Why Men Should Mentor Women](https://www.amazon.com/Athena-Rising-Should-Mentor-Women/dp/1629561517)  
 > [Challenges and supports for women conservation leaders](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.36)
 
+
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/rxJil84w.jpeg">
       
 ## [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
 
@@ -141,8 +151,11 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 
 
 
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/urqvrPSg.jpeg">
 
 ## Other Resources
 
 > [hollaback! Bystander intervention training](https://www.ihollaback.org/resources/bystander-resources/)  
 > [How to be an Ally](https://dynamicecology.wordpress.com/2019/09/04/guest-post-how-to-be-an-ally/) 
+
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/1d6DrYCQ.jpeg">
