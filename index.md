@@ -10,8 +10,21 @@ This website is a work in progress.
 Auriel Fournier - auriel@illinois.edu
 
 
-## Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions (coming soon!)  
-  
+## [Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
+
+
+> [https://implicit.harvard.edu/implicit/selectatest.html](https://implicit.harvard.edu/implicit/selectatest.html) - Implict Bias Test  
+> [eigenfactor.org/gender](eigenfactor.org/gender) - Explore the gender of authors by authorship position in your field  
+> [raiseproject.org](raiseproject.org ) - Explore the gender representation of award recepients in various STEM organizations
+> [benschmidt.org/profGender](benschmidt.org/profGender) - In-depth visualization of how gender affects word choice in student evaluations  
+> [tomforth.co.ok/genderbias](tomforth.co.ok/genderbias) - Calcuate teh gender biase of your choice of leters of recommendation   
+> [diversity.nih.gov](diversity.nih.gov) - Resources and research from the NIH Scientiffic Workforce Diversity Office  
+> [stemwomen.net](stemwomen.net) - Resources on gender inequality and potential solutions  
+> [diversityinacademia.strikingly.com](diversityinacademia.strikingly.com) - Resources on racial inequality and potential solutions   
+> [nationalseedproject.org](nationalseedproject.org) - Peer led professional development organization that provides training on engaging in conversations about diversity and equity  
+> [blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography](blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography) - Annotated bibliography of studies on gender bias in academia  
+> [fairplaygave.org](fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
+      
     
     
 
@@ -57,9 +70,8 @@ Auriel Fournier - auriel@illinois.edu
 > Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
 
 ## Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. (coming soon!)
-  
-    
-      
+
+
       
 ## [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
 
