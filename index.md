@@ -21,14 +21,14 @@ Auriel Fournier - auriel@illinois.edu
 
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/zgX_MAtg.jpeg">
 
-## [Presentation: Why We need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
+## [Presentation: Why we need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
 
 
 > [https://implicit.harvard.edu/implicit/selectatest.html](https://implicit.harvard.edu/implicit/selectatest.html) - Implict Bias Test  
 > [eigenfactor.org/gender](eigenfactor.org/gender) - Explore the gender of authors by authorship position in your field  
 > [raiseproject.org](raiseproject.org ) - Explore the gender representation of award recepients in various STEM organizations
 > [benschmidt.org/profGender](benschmidt.org/profGender) - In-depth visualization of how gender affects word choice in student evaluations  
-> [tomforth.co.ok/genderbias](tomforth.co.ok/genderbias) - Calcuate teh gender biase of your choice of leters of recommendation   
+> [tomforth.co.ok/genderbias](tomforth.co.ok/genderbias) - Calculate the gender bias of your choice of letters of recommendation   
 > [diversity.nih.gov](diversity.nih.gov) - Resources and research from the NIH Scientiffic Workforce Diversity Office  
 > [stemwomen.net](stemwomen.net) - Resources on gender inequality and potential solutions  
 > [diversityinacademia.strikingly.com](diversityinacademia.strikingly.com) - Resources on racial inequality and potential solutions   
@@ -73,23 +73,23 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 > Trix, F, C Psenka. 2003. Exploring the color of glass: Letters of recommendation for female and male medical faculty. Discourse and Society 14:191-220.
 
 > Popular Articles:  
-> NYT Why Women Aren’t CEOs - https://www.nytimes.com/2017/07/21/sunday-review/women-ceos-glass-ceiling.html
-> NYT What to Do When You’re the Only Woman in the Room - https://www.nytimes.com/guides/working-womans-handbook/token-woman-in-room?searchResultPosition=1&redirect=true
-> Opinion piece explaining gender pay gap - http://www.aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/  
-> Women are important to Ducks Unlimited - https://www.ducks.org/media/du-magazine/insights/women-are-important-to-ducks-unlimited
+> [NYT Why Women Aren’t CEOs](https://www.nytimes.com/2017/07/21/sunday-review/women-ceos-glass-ceiling.html)
+> [NYT What to Do When You’re the Only Woman in the Room](https://www.nytimes.com/guides/working-womans-handbook/token-woman-in-room?searchResultPosition=1&redirect=true)
+> [Opinion piece explaining gender pay gap](http://www.aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/)  
+> [Women are important to Ducks Unlimited](https://www.ducks.org/media/du-magazine/insights/women-are-important-to-ducks-unlimited)
 
 > Websites:  
-> NSF Stats on Women in STEM - https://ncses.nsf.gov/pubs/nsf19304/data  
-> Ducks Unlimited Conservation Experts and Contacts (0% women) - https://www.ducks.org/conservation/conservation-experts-contacts  
-> Delta Waterfowl Executive Staff - https://deltawaterfowl.org/staff/  
-> Delta Waterfowl Board of Directors - https://deltawaterfowl.org/boardofdirectors/  
-> Lean In Women in the Workplace study - https://womenintheworkplace.com/
+> [NSF Stats on Women in STEM](https://ncses.nsf.gov/pubs/nsf19304/data)  
+> [Ducks Unlimited Conservation Experts and Contacts (0% women)](https://www.ducks.org/conservation/conservation-experts-contacts)  
+> [Delta Waterfowl Executive Staff](https://deltawaterfowl.org/staff/)  
+> [Delta Waterfowl Board of Directors](https://deltawaterfowl.org/boardofdirectors/)  
+> [Lean In Women in the Workplace study](https://womenintheworkplace.com/)
 
 > Bias Tools:  
-> Gendered wording in job advertisements - http://gender-decoder.katmatfield.com/
-> Gendered wording in letters of recommendation - https://www.tomforth.co.uk/genderbias/  
-> Implicit bias tests - https://implicit.harvard.edu/implicit/selectatest.html  
-> Formal gender trainings - https://eige.europa.eu/gender-mainstreaming/methods-tools
+> [Gendered wording in job advertisements](http://gender-decoder.katmatfield.com/)
+> [Gendered wording in letters of recommendation](https://www.tomforth.co.uk/genderbias/)  
+> [Implicit bias tests](https://implicit.harvard.edu/implicit/selectatest.html)  
+> [Formal gender trainings](https://eige.europa.eu/gender-mainstreaming/methods-tools)
 
 
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/Rr-xG-dQ.jpeg">
@@ -120,15 +120,13 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 
 > ### _Podcasts and Articles_
 
-> Invisibilia: https://www.npr.org/podcasts/510307/invisibilia
+> [Invisibilia Episode "Fearless" January 16, 2015](https://www.npr.org/podcasts/510307/invisibilia)
 
-> Episode: “Fearless” (January 16, 2015)
+> [Battle Tactics For Your Sexist Workplace](https://www.npr.org/podcasts/615851215/battle-tactics-for-your-sexist-workplace)
 
-> Battle Tactics For Your Sexist Workplace: https://www.npr.org/podcasts/615851215/battle-tactics-for-your-sexist-workplace
+> [TED Talks Playlist: Fighting Impostor Syndrome](https://www.ted.com/playlists/503/fighting_impostor_syndrome)
 
-> TED Talks Playlist: Fighting Impostor Syndrome: https://www.ted.com/playlists/503/fighting_impostor_syndrome
-
-> Impostor Syndrome Blog: https://impostorsyndrome.com/blog/
+> [Impostor Syndrome Blog](https://impostorsyndrome.com/blog/)
 
 
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/X8UfHdfw.jpeg">
