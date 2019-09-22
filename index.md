@@ -17,9 +17,8 @@ Auriel Fournier - auriel@illinois.edu
 
 [Live Tweets](https://twitter.com/RallidaeRule/status/1166808825795620864)
 
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/IMG_2672.JPG">
 
-
-<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/zgX_MAtg.jpeg">
 
 ## [Presentation: Why we need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
 
@@ -130,6 +129,9 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 
 
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/X8UfHdfw.jpeg">
+
+<img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/zgX_MAtg.jpeg">
+
 
 ## [Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. By Susan Ellis-Felege and Kayla Kemink](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Mentoring%20in%20the%20Waterfowl%20Profession%20Ellis-Felege%20and%20Kemink.pdf)
 
