@@ -23,7 +23,7 @@ Auriel Fournier - auriel@illinois.edu
 ## [Presentation: Why we need more women in STEM leadership roles: innovations to overcome obstacles and identify solutions By Lisa Webb, Kaylan Kemink and Beth Ross](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Why%20we%20need%20more%20female%20leaders%20in%20STEM.pdf)
 
 
-> [https://implicit.harvard.edu/implicit/selectatest.html](https://implicit.harvard.edu/implicit/selectatest.html) - Implict Bias Test  
+> [implicit.harvard.edu/implicit/selectatest.html](https://implicit.harvard.edu/implicit/selectatest.html) - Implict Bias Test  
 > [eigenfactor.org/gender](http://eigenfactor.org/gender) - Explore the gender of authors by authorship position in your field  
 > [raiseproject.org](http://raiseproject.org ) - Explore the gender representation of award recepients in various STEM organizations
 > [benschmidt.org/profGender](http://benschmidt.org/profGender) - In-depth visualization of how gender affects word choice in student evaluations  
@@ -72,22 +72,22 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 > Trix, F, C Psenka. 2003. Exploring the color of glass: Letters of recommendation for female and male medical faculty. Discourse and Society 14:191-220.
 
 > Popular Articles:  
-> [NYT Why Women Aren’t CEOs](https://www.nytimes.com/2017/07/21/sunday-review/women-ceos-glass-ceiling.html)
-> [NYT What to Do When You’re the Only Woman in the Room](https://www.nytimes.com/guides/working-womans-handbook/token-woman-in-room?searchResultPosition=1&redirect=true)
-> [Opinion piece explaining gender pay gap](http://www.aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/)  
+> [NYT Why Women Aren’t CEOs](https://www.nytimes.com/2017/07/21/sunday-review/women-ceos-glass-ceiling.html)  
+> [NYT What to Do When You’re the Only Woman in the Room](https://www.nytimes.com/guides/working-womans-handbook/token-woman-in-room?searchResultPosition=1&redirect=true)  
+> [Opinion piece explaining gender pay gap](http://www.aei.org/publication/there-really-is-no-gender-wage-gap-there-is-a-gender-earnings-gap-but-paying-women-well-wont-close-that-gap/)    
 > [Women are important to Ducks Unlimited](https://www.ducks.org/media/du-magazine/insights/women-are-important-to-ducks-unlimited)
 
-> Websites:  
-> [NSF Stats on Women in STEM](https://ncses.nsf.gov/pubs/nsf19304/data)  
-> [Ducks Unlimited Conservation Experts and Contacts (0% women)](https://www.ducks.org/conservation/conservation-experts-contacts)  
-> [Delta Waterfowl Executive Staff](https://deltawaterfowl.org/staff/)  
-> [Delta Waterfowl Board of Directors](https://deltawaterfowl.org/boardofdirectors/)  
+> Websites:    
+> [NSF Stats on Women in STEM](https://ncses.nsf.gov/pubs/nsf19304/data)    
+> [Ducks Unlimited Conservation Experts and Contacts (0% women)](https://www.ducks.org/conservation/conservation-experts-contacts)    
+> [Delta Waterfowl Executive Staff](https://deltawaterfowl.org/staff/)    
+> [Delta Waterfowl Board of Directors](https://deltawaterfowl.org/boardofdirectors/)    
 > [Lean In Women in the Workplace study](https://womenintheworkplace.com/)
 
-> Bias Tools:  
-> [Gendered wording in job advertisements](http://gender-decoder.katmatfield.com/)
-> [Gendered wording in letters of recommendation](https://www.tomforth.co.uk/genderbias/)  
-> [Implicit bias tests](https://implicit.harvard.edu/implicit/selectatest.html)  
+> Bias Tools:    
+> [Gendered wording in job advertisements](http://gender-decoder.katmatfield.com/)  
+> [Gendered wording in letters of recommendation](https://www.tomforth.co.uk/genderbias/)    
+> [Implicit bias tests](https://implicit.harvard.edu/implicit/selectatest.html)    
 > [Formal gender trainings](https://eige.europa.eu/gender-mainstreaming/methods-tools)
 
 
@@ -135,9 +135,9 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
 
 ## [Presentation: Mentoring in the waterfowl profession: Challenges and oppurtunities. By Susan Ellis-Felege and Kayla Kemink](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Mentoring%20in%20the%20Waterfowl%20Profession%20Ellis-Felege%20and%20Kemink.pdf)
 
-> [Amelink 2008](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjG0cX8hL3kAhVDDq0KHRhxD3wQFjAAegQIARAC&url=https%3A%2F%2Fwww.engr.psu.edu%2Fawe%2Fmisc%2FARPs%2FARP_Mentoring_overview120408.pdf&usg=AOvVaw1v9HTNyudYbT0luZg3qzOg)
-> [Storrs et al 2008](https://www.tandfonline.com/doi/abs/10.1080/13611260801916499)  
-> [Athena Rising, How and Why Men Should Mentor Women](https://www.amazon.com/Athena-Rising-Should-Mentor-Women/dp/1629561517)  
+> [Amelink 2008](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjG0cX8hL3kAhVDDq0KHRhxD3wQFjAAegQIARAC&url=https%3A%2F%2Fwww.engr.psu.edu%2Fawe%2Fmisc%2FARPs%2FARP_Mentoring_overview120408.pdf&usg=AOvVaw1v9HTNyudYbT0luZg3qzOg)  
+> [Storrs et al 2008](https://www.tandfonline.com/doi/abs/10.1080/13611260801916499)    
+> [Athena Rising, How and Why Men Should Mentor Women](https://www.amazon.com/Athena-Rising-Should-Mentor-Women/dp/1629561517)    
 > [Challenges and supports for women conservation leaders](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/csp2.36)
 
 
@@ -145,8 +145,8 @@ Jones, MS, J Solomon. 2019. Challenges and supports for women conservation leade
       
 ## [Presentation: Effective Networking for Hunters and Non-hunters, By Beth E. Ross, Caroline Brady, Susan Ellis-Felege and Anne Mini ](https://github.com/aurielfournier/women_in_waterfowl/blob/master/_pdfs/Effective_Networking_Presentation.pdf)
 
-> [Shipilov et al. 2007](https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26508183)  
-> [Forret & Dougherty 2004](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.253)  
+> [Shipilov et al. 2007](https://journals.aom.org/doi/abs/10.5465/ambpp.2007.26508183)    
+> [Forret & Dougherty 2004](https://onlinelibrary.wiley.com/doi/abs/10.1002/job.253)    
 > [Greguletz et al. 2019](https://journals.sagepub.com/doi/abs/10.1177/0018726718804303)
 
 
