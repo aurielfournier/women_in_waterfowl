@@ -24,16 +24,16 @@ Auriel Fournier - auriel@illinois.edu
 
 
 > [https://implicit.harvard.edu/implicit/selectatest.html](https://implicit.harvard.edu/implicit/selectatest.html) - Implict Bias Test  
-> [eigenfactor.org/gender](eigenfactor.org/gender) - Explore the gender of authors by authorship position in your field  
-> [raiseproject.org](raiseproject.org ) - Explore the gender representation of award recepients in various STEM organizations
-> [benschmidt.org/profGender](benschmidt.org/profGender) - In-depth visualization of how gender affects word choice in student evaluations  
-> [tomforth.co.ok/genderbias](tomforth.co.ok/genderbias) - Calculate the gender bias of your choice of letters of recommendation   
-> [diversity.nih.gov](diversity.nih.gov) - Resources and research from the NIH Scientiffic Workforce Diversity Office  
-> [stemwomen.net](stemwomen.net) - Resources on gender inequality and potential solutions  
-> [diversityinacademia.strikingly.com](diversityinacademia.strikingly.com) - Resources on racial inequality and potential solutions   
-> [nationalseedproject.org](nationalseedproject.org) - Peer led professional development organization that provides training on engaging in conversations about diversity and equity  
-> [blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography](blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography) - Annotated bibliography of studies on gender bias in academia  
-> [fairplaygave.org](fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
+> [eigenfactor.org/gender](http://eigenfactor.org/gender) - Explore the gender of authors by authorship position in your field  
+> [raiseproject.org](http://raiseproject.org ) - Explore the gender representation of award recepients in various STEM organizations
+> [benschmidt.org/profGender](http://benschmidt.org/profGender) - In-depth visualization of how gender affects word choice in student evaluations  
+> [tomforth.co.ok/genderbias](http://tomforth.co.ok/genderbias) - Calculate the gender bias of your choice of letters of recommendation   
+> [diversity.nih.gov](http://diversity.nih.gov) - Resources and research from the NIH Scientiffic Workforce Diversity Office  
+> [stemwomen.net](http://stemwomen.net) - Resources on gender inequality and potential solutions  
+> [diversityinacademia.strikingly.com](http://diversityinacademia.strikingly.com) - Resources on racial inequality and potential solutions   
+> [nationalseedproject.org](http://nationalseedproject.org) - Peer led professional development organization that provides training on engaging in conversations about diversity and equity  
+> [blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography](http://blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography) - Annotated bibliography of studies on gender bias in academia  
+> [fairplaygave.org](http://fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
       
     
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/BEyb8YEg.jpeg">
