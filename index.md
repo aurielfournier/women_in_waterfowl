@@ -33,7 +33,7 @@ Auriel Fournier - auriel@illinois.edu
 > [diversityinacademia.strikingly.com](http://diversityinacademia.strikingly.com) - Resources on racial inequality and potential solutions   
 > [nationalseedproject.org](http://nationalseedproject.org) - Peer led professional development organization that provides training on engaging in conversations about diversity and equity  
 > [blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography](http://blogs.lse.ac.uk/impactofsocialsciences/2016/03/08/gender-bias-in-academe-an-annotated-bibliography) - Annotated bibliography of studies on gender bias in academia  
-> [fairplaygave.org](http://fairplaygave.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
+> [fairplaygame.org](http://fairplaygame.org) - Online role playing, true to life simulation of the complex social world of the minority graduate student in academia 
       
     
 <img align="right" src="https://raw.githubusercontent.com/aurielfournier/women_in_waterfowl/master/photos/BEyb8YEg.jpeg">
